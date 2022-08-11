@@ -1,1 +1,5 @@
-
+html,body{
+  magin:0;
+  padding:0;
+  backgroundcolor:"red"
+}
